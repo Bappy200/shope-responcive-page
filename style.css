@@ -1,0 +1,19 @@
+.header-text{
+    font-size: 60px;
+    font-weight: 900;
+}
+.items-card{
+    border: 0;
+}
+.buy-icon{
+    width: 40px;
+}
+.items-footer{
+    border: 0;
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+.contuct-image{
+    max-width: 50%;
+}
